@@ -1,6 +1,5 @@
 /*
- * FCAI-CU – Structured Programming – 2024 - Assignment 2 - Task 4
- * Program Name: CS112_A2_T4_S17_S18_20230586_20230461_20230584.cpp
+ * FCAI-CU – Structured Programming – 2024 
  * Program Description: This is a program that takes a message from the user and encrypts/decrypts it
                         using a cipher algorithm. The user could choose which cipher type he wants to use.
                         Cipher types included are: Affine Cipher - Route Cipher - Atbash Cipher - Vignere Cipher -
@@ -10,13 +9,9 @@
 
  * Last Modification Date: 19/3/2024
 
- * Author1 and ID and Group: Helana Wageh Edward Soltan, 20230461, S17
- * Author2 and ID and Group: Malak Reda Mohamed Esmail, 20230584, S18
- * Author3 and ID and Group: Salsabil Bahaaeldin Rohaiem Mohamed, 20230586, S18
-
- * Teaching Assistant: Eng. Ahmed Lotfy
- * Who did what: Helana did abtash, simple substitution Cipher, and Route cipher. Malak did Vignere, affine, baconian, and Rail-fence Cipher. Salsabil did Morse code,
-   polybius Square, and XOR Cipher
+ * Author1 and ID and Group: Helana Wageh Edward Soltan
+ * Author2 and ID and Group: Malak Reda Mohamed Esmail
+ * Author3 and ID and Group: Salsabil Bahaaeldin Rohaiem Mohamed
  */
 
 #include <iostream>
